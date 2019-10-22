@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAEA,IAAI;EACF,UAAU,ECHH,IAAI",
+"mappings": "AAEA,IAAI;EACF,UAAU,ECHH,OAAO",
 "sources": ["../style.sass","../../../../Gesch%C3%A4ft/Projekte/SH%20Projekt/_color.sass"],
 "names": [],
 "file": "style.min.css"
